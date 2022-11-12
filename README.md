@@ -3,7 +3,7 @@
 ### 🚀 **RD Creative Studio**
 > Kami Memberikan Layanan Jasa Pembuatan Aplikasi Mobile Development, Web Development, Desktop Development, Landing Page, dan Company Profile.
 
-### ✨ ***Build with***
+### ✨ **Build with**
 - Mellow.js
 - Tailwind.css
 
